@@ -8,14 +8,14 @@
 ]]--
 
 ----[[ GENERAL INFORMATION ]]----
-Current Version: v1.0.0
+Current Version: v1.2.5
 Working: Yes!
 Mostly Universal
 Educational Purposes!!
 ----[[ CREATION INFORMATION ]]----
 Creator: vauz#7376
 Obfuscator: vauz#7376
-Aproved by: vauz#7376
+Aproved by: !Dev#0919
 ----[[ UPDATES ]]----
 
 1.0.0 // Release Date
@@ -31,6 +31,20 @@ Aproved by: vauz#7376
           Anti-Deobfuscation
 1.2.1 // Added+
           More Anti-cheats Bypassed
-          Updated GPU destroying once saver executed
+          Updated GPU because it was destroying said GPU once saver executed
           Updated to better UI
-          Added a key system -- key is VS.Uriel.i1324k
+          Added a key system
+1.2.2 // Added+
+          More Anti-cheats Bypassed
+          Fixed Laggy Name Hider
+         Changed;
+          The way Alt Anti-cheat bypasser worked, exececuted, etc. (It should work)
+          The way CPU saver works.
+          How Dynamic ESP Executes
+1.2.3 // Fixed;
+          Anti-cheat autoban
+          Anti-AFK kick (Adonis and HD admins)
+         Added+
+          Better Anti-AFK
+1.2.5 // [- Had to skip .3 and .4 due to the number messing with how the script executed -]
+Thats literally the only reason its in 1.2.5
